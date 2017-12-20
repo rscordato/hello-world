@@ -8,3 +8,9 @@ Another change
 
 Here is a change on 12/20/17.  Opened file from the file in the Github directory on my computer
 and changed it there.  Then saved it.
+
+Make another change.
+
+And one more after that.
+
+Here is a change number three or so.
